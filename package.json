@@ -1,6 +1,6 @@
 {
   "name": "next-redux-hydrate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically dispatches HYDRATE action on the client.",
   "main": "lib/index",
   "repository": "https://github.com/SlagterJ/next-redux-hydrate.git",
