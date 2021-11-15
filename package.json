@@ -1,6 +1,6 @@
 {
   "name": "next-redux-hydrate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically dispatches HYDRATE action on the client.",
   "main": "index.js",
   "repository": "https://github.com/SlagterJ/next-redux-hydrate.git",
@@ -10,6 +10,9 @@
   "files": [
     "lib/**/*"
   ],
+  "exports": {
+    ".": "./lib/"
+  },
   "scripts": {
     "build": "tsc",
     "lint": "eslint src/**",
