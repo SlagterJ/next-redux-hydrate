@@ -7,7 +7,7 @@
   "author": "Jordy Slagter <slagterj2001@gmail.com>",
   "license": "MIT",
   "private": false,
-  "type": "module",
+  "type": "commonjs",
   "module": "commonjs",
   "files": [
     "lib/**/*"
